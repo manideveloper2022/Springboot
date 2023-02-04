@@ -1,0 +1,20 @@
+API/web service development
+
+1. The controller class should have  '@RestController' annotation.
+2.Every url is associated with the method
+3. 
+Http Method                 Annotaion
+GET                        @GetMapping
+PUT						   @PutMapping
+POST					   @PostMapping
+DELETE					   @DeleteMapping
+
+
+
+By using Spring boot we can develope these type of projects:
+1. Web services/micro services[NO UI - FRONT END]
+2. web applications [BOTH UI & BACKEND]
+
+
+
+
